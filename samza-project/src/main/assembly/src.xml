@@ -31,7 +31,7 @@ language governing permissions and limitations under the License. -->
     </fileSets>
     <files>
         <file>
-            <source>${basedir}/src/main/resources/log4j.xml</source>
+            <source>src/main/resources/log4j.xml</source>
             <outputDirectory>lib</outputDirectory>
         </file>
     </files>
